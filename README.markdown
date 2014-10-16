@@ -1,4 +1,4 @@
-# spf13-vim : Steve Francia's Vim Distribution
+# spf13-vim : Steve Francia's Vim Distribution : fork maintained by aymanim
 
                     __ _ _____              _
          ___ _ __  / _/ |___ /      __   __(_)_ __ ___
